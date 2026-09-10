@@ -1,0 +1,15 @@
+{
+    "name": "ciyna/reservasi-lapangan",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mimissiee",
+            "email": "growfitzgt@gmail.com"
+        }
+    ],
+    "require": {}
+}
